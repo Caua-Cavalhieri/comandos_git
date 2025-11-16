@@ -12,3 +12,6 @@ git remote add origin *link do github* = estabelece a conexão entre o pc e o re
 
 git push -u origin main = empurra os commits do repositório local para o GitHub(repositório remoto)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+git checkout -b "nome da nova branch" = cria uma nova branch(ramificação) do repositório
