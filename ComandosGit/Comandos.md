@@ -14,4 +14,12 @@ git push -u origin main = empurra os commits do repositório local para o GitHub
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-git checkout -b "nome da nova branch" = cria uma nova branch(ramificação) do repositório
+git checkout -b "nome da nova branch" = cria uma nova branch(ramificação) do repositório e entra nela
+
+git checkout "branch" = troca de branch
+
+git merge *branch alvo* = faz a junção de duas branchs (a que está sendo alterada no momento e a selecionada)
+
+git clone *link do repositorio que quer clonar.git* = clona o repositorio de algum github
+
+git pull = quando dentro do arquivo e já no repositório do bash ele puxa possíveis novas alterações do arquivo
